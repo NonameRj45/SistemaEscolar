@@ -1,0 +1,14 @@
+----------ALUNOS CADASTRADOS--------
+Nome: Kauan
+Idade: 16
+Email: kauan@gmail.com
+CPF: 111.111.111 - 11
+Curso: Informatica
+-------------------------------------
+----------ALUNOS CADASTRADOS--------
+Nome: carol
+Idade: 16
+Email: carol@gmail.com
+CPF: 343.535.353 - 53
+Curso: informatica
+-------------------------------------

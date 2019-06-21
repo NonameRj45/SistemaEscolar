@@ -1,0 +1,14 @@
+------PROFESSORES CADASTRADOS-------
+Nome: Roberto
+Idade: 34
+Email: roberto@bado
+CPF: 243.535.435 - 46
+Especialidade: Nada
+-------------------------------------
+------PROFESSORES CADASTRADOS-------
+Nome: Joelma
+Idade: 23
+Email: joelma@gmail.com
+CPF: 454.657.677 - 68
+Especialidade: Biologia
+-------------------------------------
